@@ -1,5 +1,8 @@
 # PostgreSQL-Streaming-Replication-Setup-Primary-DR
-PostgreSQL Streaming Replication Setup (Primary + DR)
+
+![Replication](Postgresql_Streaming.PNG)
+
+   
 
 This guide outlines a step-by-step process to configure PostgreSQL Streaming Replication between a primary server (testserver1) and a standby server (testserver2) which acts as a Disaster Recovery (DR) node.
 🧩 Prerequisites
